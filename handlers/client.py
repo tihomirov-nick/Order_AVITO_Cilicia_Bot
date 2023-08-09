@@ -9,7 +9,7 @@ from pyqiwip2p import QiwiP2P
 import db
 from create_bot import bot
 
-pay = QiwiP2P(auth_key="eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6Ijc4OGQ1ay0wMCIsInVzZXJfaWQiOiI3OTExNzM0MTgwNyIsInNlY3JldCI6ImRhNThlMTRjZDY2Y2U0NDlmNDQyMDVkYmRkMjUyNTJjMWFkZTVlNjNjZmI5ODlkOTQ5Y2IwN2FmM2JhMGQ3OWUifX0=")
+pay = QiwiP2P(auth_key="KEY")
 
 
 # Home
